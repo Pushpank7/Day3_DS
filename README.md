@@ -1,2 +1,4 @@
 # Day3_DS
 Data Cleaning using Pandas
+
+On Day 3, I focused on one of the most critical steps in any data project — Data Cleaning. Clean data is the foundation for great analysis and model building!  🔍 What I Learned: ✅ Checking for missing values using .isnull() and .notnull()  ✅ Handling missing data with .dropna() and .fillna()  ✅ Identifying and removing duplicate rows  ✅ Replacing values using .replace()  ✅ Renaming columns using .rename()  ✅ Changing data types with .astype()  ✅ String cleaning: .str.lower(), .str.strip(), .str.replace()  ✅ Detecting outliers with basic logic (mean, std, IQR approach)  🛠️ Tools Used: Google Colab (Python)  Pandas Library  Sample messy dataset (dirty_data.csv or similar)  📂 Files Included: day3_data_cleaning.ipynb — My cleaned-up notebook with code + comments  Dataset: dirty_data.csv
